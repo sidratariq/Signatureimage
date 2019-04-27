@@ -1,2 +1,2 @@
 # Signatureimage
-Using html2Canvas library  imag e of the div is taken. 
+Using html2Canvas library  image of the div is taken. 
